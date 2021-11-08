@@ -1,0 +1,3 @@
+[submodule "drawGift"]
+	path = drawGift
+	url = git@github.com:MrBigFly/drawGift.git
